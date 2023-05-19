@@ -2,7 +2,7 @@
 title: "Class 6: R Functions"
 author: Anel Garcia
 date: 2023-04-21
-format: pdf
+format: gfm
 ---
 
 In this class, we would develop our own R function to calculate average grades in a fictional class.
