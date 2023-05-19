@@ -2,7 +2,7 @@
 title: "Class05: Data Visualization with GGPLOT"
 author: "AnelGarcia"
 date: 2023-04-19
-format: html
+format: gfm
 editor: visual
 editor_options: 
   chunk_output_type: console
