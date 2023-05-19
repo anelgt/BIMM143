@@ -2,7 +2,7 @@
 title: "Class07"
 author: Anel Garcia
 date: 2023-04-26
-format: pdf
+format: gfm
 editor_options: 
   chunk_output_type: console
 ---
