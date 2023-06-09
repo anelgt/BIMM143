@@ -1,13 +1,6 @@
-# BIMM143
-Bioinformatics lab class
-
-Add changes from local computer.
-
-Add changes from remote.
-
 # Classwork
 
-This page directs you to BIMM 143 - Bioinformatics Lab at UC San Diego for Spring 2023. The main class website hompage is [here](https://marcos-diazg.github.io/BIMM143_SP23/)
+This page directs you to BIMM 143 - Bioinformatics Lab at UC San Diego for Spring 2023. The main class website hompage is [here](https://marcos-diazg.github.io/BIMM143_SP23/).
 
 ## Content
 
